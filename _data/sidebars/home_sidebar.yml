@@ -5,18 +5,18 @@ entries:
   levels: one
   folders:
 
-  - title: Products
+  - title: Sections
     output: web
     folderitems:
-    - title: News
-      url: /news.html
+    - title: Blog
+      url: /blog.html
       output: web
-    - title: Theme instructions
-      url: /mydoc_introduction.html
+    - title: Presentations
+      url: /mydoc_presentations.html
       output: web
-    - title: Product 1
-      url: /p1_landing_page.html
+    - title: Assets
+      url: /assets_landing_page.html.html
       output: web
-    - title: Product 2
-      url: /p2_landing_page.html
+    - title: Playbooks
+      url: /playbooks_landing_page.html
       output: web

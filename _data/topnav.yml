@@ -32,11 +32,11 @@ topnav_dropdowns:
           external_url: https://docs.microsoft.com/en-us/office365/
         - title: .Net
           external_url: https://docs.microsoft.com/en-us/dotnet/
-    - title: Site
+    - title: Sections
       folderitems:
         - title: Presentations
-          url: /mydoc_introduction.html
+          url: /mydoc_presentations.html
         - title: Asset Library
-          url: /p1_landing_page.html
+          url: /assets_landing_page.html
         - title: Playbooks
-          url: /p2_landing_page.html
+          url: /playbooks_landing_page.html
