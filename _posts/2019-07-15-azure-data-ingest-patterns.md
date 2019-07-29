@@ -20,7 +20,7 @@ There are three primary design patterns that are presented:
 ## Batch/Micro-batch Streaming Data Ingest
  The micro-batch data ingest pattern is similar to the near real-time data ingest pattern. The intent is to package the data in small consumable datasets that can be ingested with minimal disruption to the data flow instead of sending a single tuple at a time.
 
---Need Diagram
+![diagram](images/2019-07-15-azure-data-ingest-patterns2.png)
 
  The batch/micro-batch streaming data ingest pattern workflow is as follows:  
  1. External data provider creates a batch of data that is pushed to a transient data store (Azure Storage) or queue for processing
@@ -32,12 +32,12 @@ There are three primary design patterns that are presented:
 
  The diagram below shows the logical model for the batch/micro batch streaming data ingest pattern.
 
---Need Diagram
+![diagram](images/2019-07-15-azure-data-ingest-patterns3.png)
 
 ## Near Real-time Streaming Data Ingest
  This pattern is for working with an infinite stream of data that is pushed a record at a time. Another common term associated with this pattern is event sourcing.
 
---Need Diagram
+![diagram](images/2019-07-15-azure-data-ingest-patterns4.png)
 
 The near real-time streaming data ingest pattern logical workflow is as follows:
 1. External data provider (event processing host) pushes a tuple of data to a steaming transient data store (Azure Event Hub, IoT Hub or EventGrid) or queue for processing
@@ -48,12 +48,12 @@ The near real-time streaming data ingest pattern logical workflow is as follows:
 
 The diagram below shows the logical model for the near real-time streaming data ingest pattern.
 
---Need Diagram
+![diagram](images/2019-07-15-azure-data-ingest-patterns5.png)
 
 ## Near Real-time Streaming Data Ingest – Hot Path
 This pattern is for working with an infinite stream of data that is pushed a record at a time and needs to be viewed or processed as it is received.
 
---Need Diagram
+![diagram](images/2019-07-15-azure-data-ingest-patterns6.png)
 
 The near real-time streaming data ingest -hot path pattern logical workflow is as follows:
 1. External data provider (event processing host) pushes a tuple of data to a steaming transient data store (Azure Event Hub or IoT Hub) or queue for processing
@@ -63,6 +63,6 @@ The near real-time streaming data ingest -hot path pattern logical workflow is a
 
 The diagram below shows the logical model for the near real-time streaming data -hot path ingest pattern.
 
---Need Diagram
+![diagram](images/2019-07-15-azure-data-ingest-patterns7.png)
 
 {% include links.html %}
