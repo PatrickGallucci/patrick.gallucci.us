@@ -1,0 +1,37 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: Patrick Gallucci US
+  version: 1.0
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+  - title: Overview
+    output: web, pdf
+    folderitems:
+
+    - title: Patrick Gallucci US
+      url: /index.html
+      output: web, pdf
+      type: homepage
+
+    - title: About this site
+      url: /mydoc_about.html
+      output: web, pdf
+
+    - title: Contact
+      url: /mydoc_contact.html
+      output: web, pdf
