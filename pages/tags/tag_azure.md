@@ -1,6 +1,6 @@
 ---
 title: "Azure"
-tagName: Azure
+tagName: azure
 search: exclude
 permalink: tag_azure.html
 sidebar: mydoc_sidebar
