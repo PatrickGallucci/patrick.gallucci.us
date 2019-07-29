@@ -14,5 +14,4 @@ summary: This site contains information and knowledge that I have accumulated ov
 This site will be a work in progress for the rest of this year (2019).
 
 
-
 {% include links.html %}
