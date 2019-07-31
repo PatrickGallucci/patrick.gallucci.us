@@ -7,7 +7,7 @@ permalink: index.html
 summary: This site will contain some information.
 ---
 
-## Work in Progress
+## Some Information
 
 I will add something here eventually.
 

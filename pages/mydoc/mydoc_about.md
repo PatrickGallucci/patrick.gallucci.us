@@ -9,6 +9,8 @@ permalink: mydoc_about.html
 folder: mydoc
 ---
 
+## Facts about me
+
 My name is Patrick Gallucci.
 
 {% include links.html %}
