@@ -9,8 +9,12 @@ permalink: mydoc_presentations.html
 folder: mydoc
 ---
 
+[Get you local date/time here.](https://www.timeanddate.com/worldclock/converter-classic.html)
 ## 2019
 
-I will eventually do a presentation.
+
+Date|Topic|Conference|Location
+----|-----|----------|--------
+8-22-2019 17:00 UTC|[Secure by Design-Developing a Cloud Information Governance and Security Strategy](https://cloud.pass.org/)|PASS Cloud Virtual Group|[Online](https://cloud.pass.org/)
 
 {% include links.html %}
