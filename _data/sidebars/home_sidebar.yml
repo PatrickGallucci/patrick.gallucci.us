@@ -14,9 +14,3 @@ entries:
     - title: Presentations
       url: /mydoc_presentations.html
       output: web
-    - title: Assets
-      url: /assets_landing_page.html.html
-      output: web
-    - title: Playbooks
-      url: /playbooks_landing_page.html
-      output: web
