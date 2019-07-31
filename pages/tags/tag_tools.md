@@ -1,11 +1,12 @@
 ---
-title: "Getting started pages"
-tagName: getting_started
+title: "Tools"
+tagName: tools
 search: exclude
-permalink: tag_getting_started.html
+permalink: tag_tools.html
 sidebar: mydoc_sidebar
 folder: tags
 ---
+
 {% include taglogic.html %}
 
 {% include links.html %}

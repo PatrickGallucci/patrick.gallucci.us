@@ -1,8 +1,8 @@
 ---
-title: "Mobile Pages"
+title: "Playbooks"
+tagName: playbooks
 search: exclude
-tagName: mobile
-permalink: tag_mobile.html
+permalink: tag_playbooks.html
 sidebar: mydoc_sidebar
 folder: tags
 ---

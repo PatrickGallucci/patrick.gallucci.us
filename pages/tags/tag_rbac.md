@@ -1,8 +1,8 @@
 ---
-title: "Formatting pages"
-tagName: formatting
+title: "RBAC Pages"
 search: exclude
-permalink: tag_formatting.html
+tagName: rbac
+permalink: tag_rbac.html
 sidebar: mydoc_sidebar
 folder: tags
 ---

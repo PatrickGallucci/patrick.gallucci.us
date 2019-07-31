@@ -1,8 +1,8 @@
 ---
-title: "Navigation pages"
-tagName: navigation
+title: "Governance pages"
+tagName: governance
 search: exclude
-permalink: tag_navigation.html
+permalink: tag_governance.html
 sidebar: mydoc_sidebar
 folder: tags
 ---

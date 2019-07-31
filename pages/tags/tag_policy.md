@@ -1,8 +1,8 @@
 ---
-title: "Content types pages"
-tagName: content_types
+title: "Policy pages"
+tagName: polcy
 search: exclude
-permalink: tag_content_types.html
+permalink: tag_policy.html
 sidebar: mydoc_sidebar
 folder: tags
 ---
