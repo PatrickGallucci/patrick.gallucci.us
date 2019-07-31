@@ -23,7 +23,7 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: Patrick Gallucci US
+    - title: Patrick Gallucci
       url: /index.html
       output: web, pdf
       type: homepage

@@ -7,10 +7,10 @@ folder: mydoc
 
 ## Overview
 
-This is a list of the presentations I have done over the years.
+This is a list of the presentations I have done.
 
 ## 2019
 
-To get started, see...
+I will eventually do a presentation.
 
 {% include links.html %}
