@@ -2,7 +2,7 @@
 title:  "Decomposing an Architecture Description"
 published: true
 permalink: 2019-08-10-decomposing-an-architecture-description.html
-summary: "I am going to share what tools I use to do my job."
+summary: "Understanding the Architecture Description and its role in Architecture."
 tags: [azure, architecture]
 ---
 
@@ -24,6 +24,6 @@ I am often involved in Architecture Design Sessions (ADS) with customers and par
 - Standards Profile
 - Use Cases
 
-In my next post I will describe the purpose of the Architecture Design session and walk through the various sections of the Architecture Description. 
+In my next post I will describe the purpose of the Architecture Design session and walk through the various sections of the Architecture Description.
 
 {% include links.html %}
